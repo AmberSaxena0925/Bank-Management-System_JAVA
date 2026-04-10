@@ -42,11 +42,11 @@ A **Bank Management System** built using Java that simulates basic banking opera
 ## 👨‍💻 Contributor
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Ayanmokal">
     <img src="https://your-image-link.com/logo.png" width="120px" style="border-radius:50%;" alt="Amber"/>
   </a>
   <br><br>
-  <b>Amber</b>
+  <b>Ayan Mokal</b>
   <br>
-  <a href="https://github.com/your-username">GitHub Profile</a>
+  <a href="https://github.com/Ayanmokal">GitHub Profile</a>
 </p>
