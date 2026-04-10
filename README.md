@@ -43,7 +43,7 @@ A **Bank Management System** built using Java that simulates basic banking opera
 
 <p align="center">
   <a href="https://github.com/Ayanmokal">
-    <img src="https://your-image-link.com/logo.png" width="120px" style="border-radius:50%;" alt="Amber"/>
+    <img src="https://your-image-link.com/logo.png" width="120px" style="border-radius:50%;" alt="Ayanmokal"/>
   </a>
   <br><br>
   <b>Ayan Mokal</b>
